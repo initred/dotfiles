@@ -26,7 +26,6 @@
                 "snapOnInput": true,
                 "coursorShape": "bar",
                 "coursorColor": "#FFFFFF",
-                "closeOnExit": true,
                 "colorScheme": "Blazer"
             },
             "list": [
